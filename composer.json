@@ -78,11 +78,6 @@
     "autoload": {
         "psr-4": { "Payum\\Bundle\\PayumBundle\\": "" }
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.2.2"
-        }
-    },
     "config": {
         "bin-dir": "bin"
     }
